@@ -7,4 +7,3 @@ A guessing game to cut the correct color wire to defuse the bomb.
 - IOS
 - C#
 - XAML
-
