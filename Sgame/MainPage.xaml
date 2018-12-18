@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Sgame" x:Class="Sgame.MainPage">
+    <StackLayout Padding="10, 30, 10, 0" 
+                 BackgroundColor="Black" 
+                 Spacing="2"
+                 >
+        <!-- Place new controls here -->
+        <StackLayout>
+    <Image x:Name="myback"/>
+            </StackLayout>
+        <StackLayout x:Name="yoo">
+           
+            
+        <Label Text="Cut a Wire to Defuse the Bomb"
+               TextColor="White"
+               FontSize="Large"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"
+              
+               x:Name="cut"/>
+            
+            <Label Text="Defuse 13 Bombs to beat the game"
+               TextColor="White"
+               FontSize="Medium"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"
+                   x:Name="tw"/>
+        
+        </StackLayout>
+        
+        
+        <StackLayout  x:Name="you" VerticalOptions="CenterAndExpand">
+            <Label Text="Red wire"
+               x:Name="redlb"
+               TextColor="White"
+               HorizontalTextAlignment="Center"/>
+        
+        
+        <Button Text="1" 
+                TextColor="Red"
+                HorizontalOptions="FillAndExpand" 
+                VerticalOptions="FillAndExpand"
+                Clicked="ButtonClicked"
+                BackgroundColor="Red"
+          
+              />
+            
+            </StackLayout>
+                    
+        
+        <StackLayout  x:Name="yot" VerticalOptions="CenterAndExpand" >
+            
+     <Label Text="Green wire"
+               x:Name="greenlb"
+               TextColor="White"
+               HorizontalTextAlignment="Center"/>
+            
+     <Button Text="2" 
+             TextColor="Green"
+             HorizontalOptions="FillAndExpand" 
+             VerticalOptions="CenterAndExpand"
+             Clicked="ButtonClicked"
+             BackgroundColor="Green"
+             Opacity="2"
+                 /> 
+   
+            </StackLayout>
+        
+        
+        <StackLayout VerticalOptions="CenterAndExpand">
+            
+        <Label Text="Gray wire"
+               x:Name="graylb"
+               TextColor="White"
+               HorizontalTextAlignment="Center"/>
+            
+    <Button Text="3" 
+            TextColor="Gray"
+            HorizontalOptions="FillAndExpand" 
+            VerticalOptions="CenterAndExpand"
+            Clicked="ButtonClicked"
+            BackgroundColor="Gray"
+            x:Name="graybtn"
+                />
+   
+           </StackLayout>
+        
+         <StackLayout VerticalOptions="CenterAndExpand" >
+            
+        <Label Text="Yellow wire"
+               x:Name="yellb"
+               TextColor="White"
+               HorizontalTextAlignment="Center"/>
+            
+     <Button Text="4" 
+             TextColor="Yellow"
+             HorizontalOptions="FillAndExpand" 
+             VerticalOptions="CenterAndExpand"
+             Clicked="ButtonClicked"
+             BackgroundColor="Yellow"
+             Opacity="2"
+             x:Name="yel"/> 
+            
+            </StackLayout>
+        
+        <Label Text="Created By Levi Llewellyn!" 
+               TextColor="White"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+</ContentPage>

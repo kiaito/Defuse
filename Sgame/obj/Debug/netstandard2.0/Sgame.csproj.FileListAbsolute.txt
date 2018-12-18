@@ -1,0 +1,12 @@
+/Users/Kiaito/projects/Sgame/Sgame/bin/Debug/netstandard2.0/Sgame.deps.json
+/Users/Kiaito/projects/Sgame/Sgame/bin/Debug/netstandard2.0/Sgame.dll
+/Users/Kiaito/projects/Sgame/Sgame/bin/Debug/netstandard2.0/Sgame.pdb
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/Sgame.csprojAssemblyReference.cache
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/Sgame.csproj.CoreCompileInputs.cache
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/Sgame.AssemblyInfoInputs.cache
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/Sgame.AssemblyInfo.cs
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/Sgame.dll
+/Users/Kiaito/projects/Sgame/Sgame/obj/Debug/netstandard2.0/Sgame.pdb
