@@ -12,5 +12,8 @@ A guessing game to cut the correct color wire to defuse the bomb.
 <img src="https://github.com/kiaito/Defuse/blob/master/defuse1.png?raw=true" width="50%" height="50%"/>
 <img src="https://github.com/kiaito/Defuse/blob/master/defuse2.png?raw=true" width="50%" height="50%"/>
 <img src="https://github.com/kiaito/Defuse/blob/master/defuse3.png?raw=true" width="50%" height="50%"/>
+
+## Each Level has less wires to choose from
+
 <img src="https://github.com/kiaito/Defuse/blob/master/defuse4.png?raw=true" width="50%" height="50%"/>
 
